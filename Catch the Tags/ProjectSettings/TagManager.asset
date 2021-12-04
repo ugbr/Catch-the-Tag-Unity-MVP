@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Fruit
+  - Bomb
   layers:
   - Default
   - TransparentFX
@@ -49,4 +51,7 @@ TagManager:
     locked: 0
   - name: Hat
     uniqueID: 3287956687
+    locked: 0
+  - name: UI
+    uniqueID: 4043480745
     locked: 0
